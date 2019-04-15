@@ -49,6 +49,7 @@ merge_result.py: Merge the intra- and inter-sentence level results
 doc_level_evaluation.py: Evaluation for results. Note that it is not availabel until you download the original data and official evaluation toolkit on the website of BioCreative V Track 3.
 
 =============================How to run=======================================
+
 Run main.py for the results, the evaluation part is included in this page.
 
 More codes for preprocessing is under construction and will be available soon.
